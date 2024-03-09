@@ -18,5 +18,5 @@ If you are looking for someone to bring your ideas to life, or for someone to be
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | Javascript | Ajax | Reactjs | Node js
 - 🛢 &nbsp; MySQL | SQL 
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
-- 🖥 &nbsp; UI / UX | Figma | Canva |
+- 🖥 &nbsp; UI / UX | Figma | Canva
 
