@@ -1,4 +1,4 @@
-<h2>Hallo There</h2>
+<h2>Hello There</h2>
 <p> 
 I am a full stack developer. I am a programmer with good knowledge of front-end and back-end techniques, have more than 5+ years of experience in developing and designing.
 
