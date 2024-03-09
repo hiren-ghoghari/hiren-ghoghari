@@ -1,6 +1,6 @@
 <h2>Hallo There</h2>
 <p> 
-I am a full-stack developer. I am a programmer with good knowledge of front-end and back-end techniques, have more than 5+ years of experience in developing and designing.
+I am a full stack developer. I am a programmer with good knowledge of front-end and back-end techniques, have more than 5+ years of experience in developing and designing.
 
 If you are looking for someone to bring your ideas to life, or for someone to be a part of your development team feel free to contact me. Let’s create something awesome together!
 </p>
